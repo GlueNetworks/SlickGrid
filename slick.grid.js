@@ -664,7 +664,7 @@ if (typeof Slick === "undefined") {
         distance: 3,
         axis: "x",
         cursor: "default",
-        tolerance: "intersection",
+        tolerance: "pointer",
         helper: "clone",
         placeholder: "slick-sortable-placeholder ui-state-default slick-header-column",
         forcePlaceholderSize: true,
